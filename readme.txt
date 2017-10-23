@@ -1,6 +1,6 @@
 How to use
     Install Autohotkey: https://autohotkey.com/download/
-    Download repo: https://github.com/Knar33/LIF-Macros/archive/master.zip
+    Download repo: https://github.com/Knar66/LIFMacros/archive/master.zip
     Extract the files, then run the macro you want to use as administrator
 
 Click:
