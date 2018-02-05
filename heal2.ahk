@@ -31,4 +31,4 @@ loop
 }
 Return
 
-f10e::Pause Toggle
+f10::Pause Toggle
