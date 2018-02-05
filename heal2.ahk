@@ -15,17 +15,17 @@ loop
     if (color1 != 0x2828cc)
     {
         Send !3
-        sleep 1000
+        sleep 1300
     }
     if (color2 != 0x2593ba)
     {
         send !2
-        sleep 1000
+        sleep 1300
     }           
     if (color3 != 0xBA6E49)
     {
         send !1
-        sleep 1000
+        sleep 1300
     }
     sleep 1200
 }
